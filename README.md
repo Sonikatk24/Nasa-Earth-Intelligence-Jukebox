@@ -5,8 +5,6 @@ Team **TechHackers** · NASA Space Apps Challenge 2026 · *The Earth Information
 
 An interactive web app that lets people **see, hear and explore** NASA Earth data. It turns NASA satellite imagery into live sound, compares places and years, and explains climate records in plain language.
 
-> Not an official NASA product. The Earth Health Score and Future Earth simulator are our own illustrative indicators, not NASA measurements or climate predictions.
-
 ## Features
 - **Earth Jukebox:** NASA GIBS imagery is analysed in the browser and played as live generated sound (Web Audio API). Colour sets the chord, brightness sets loudness and pitch, saturation shapes the tone, bright-pixel density sets rhythm. Each frame gets a text description for screen-reader users.
 - **Explore Earth:** location search, NASA GIBS satellite map, NASA POWER charts (temperature, rainfall, humidity) for 1, 5 or 10 years.
