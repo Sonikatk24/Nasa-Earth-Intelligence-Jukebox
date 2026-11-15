@@ -26,6 +26,21 @@ React + Vite, Tailwind CSS, React Router, Leaflet / React-Leaflet, Recharts, Luc
 - [NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/) active fire detections (optional MAP_KEY)
 - Place search: OpenStreetMap Nominatim
 
+  ## Result
+  <img width="1366" height="768" alt="Image1" src="https://github.com/user-attachments/assets/7d160633-b972-479d-85fb-57eeedd1ffbe" />
+  <img width="1366" height="768" alt="Image2 0" src="https://github.com/user-attachments/assets/de59b8a8-8dbf-41d9-ab1b-6a7ca865532f" />
+  <img width="1366" height="768" alt="Image2 1" src="https://github.com/user-attachments/assets/e89ab333-7a52-41d2-956d-375651bafe03" />
+  <img width="1366" height="768" alt="Image3 0" src="https://github.com/user-attachments/assets/6e7c1a05-8263-4862-8bb0-b8cdac8507c8" />
+  <img width="1366" height="768" alt="Image3 1" src="https://github.com/user-attachments/assets/9c45047b-8448-4222-b47a-4d4fbda63c5b"/> 
+  <img width="1366" height="768" alt="Image4" src="https://github.com/user-attachments/assets/f1d1e09b-953b-4071-8d6c-43ccac36b23e" />
+  <img width="1366" height="768" alt="Image5" src="https://github.com/user-attachments/assets/f6d8c55e-9d32-4ed3-98b9-a9d5f3048f0d" />
+  <img width="1366" height="768" alt="Image6" src="https://github.com/user-attachments/assets/9c2a4ba5-bc93-4997-9eb7-5b38c981234f" />
+  <img width="1366" height="768" alt="Image7" src="https://github.com/user-attachments/assets/5267082b-f674-49a7-b751-eef05dce211e" />
+  <img width="1366" height="768" alt="Image8" src="https://github.com/user-attachments/assets/9aa776f0-b29a-421b-81f3-c660c80308df" />
+  <img width="1366" height="768" alt="Image9" src="https://github.com/user-attachments/assets/b8682961-0bb2-4e74-b6d0-f7bb58f628cc" />
+  
+
+
 ## Run locally
 **Backend**
 ```bash
