@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+backend/jukebox.db
+.DS_Store
